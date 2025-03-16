@@ -1,4 +1,4 @@
-👋 Hey there! I'm Rodrigo Coelho, a passionate 2nd-year Computer Engineering student diving deep into the world of code and circuits.
+👋 Hey there! I'm Rodrigo Coelho, a passionate 3rd-year Computer Engineering student diving deep into the world of code and circuits.
 
 💻 With a keen interest in functional programming and Java, I'm constantly exploring the intersections between elegant design patterns and robust software solutions.
 
