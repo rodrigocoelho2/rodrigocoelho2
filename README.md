@@ -47,6 +47,7 @@ Personal apps I use every day. All built with .NET and SQL Server and running in
 - [**Kotlin Chess Game**](https://github.com/rodrigocoelho2/Kotlin-Chess-Game): chess game written in Kotlin
 - [**BlackJack**](https://github.com/rodrigocoelho2/BlackJack): Blackjack card game
 </details>
+
 ## Homelab
  
 The place where I practise what I don't get to touch at work.
